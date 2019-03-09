@@ -19,7 +19,7 @@ She was at the office.
 Where was Tom on Thursday, May 5th?
 He was at the hairdresser's.
 
-When was peeny at the baker's?
+When was Peeny at the baker's?
 She was there on Friday, June 6th.
 
 When were you at the dairy?
