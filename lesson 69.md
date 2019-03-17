@@ -56,13 +56,11 @@ finish可以表示动词”完成“，比如：I must finish it on time.（我�
 
 常用的短语：
 
-- on the way
+- on the way to ...
 
   I am on the way to school（我在去学校的路上）
 
-  I am on the way home（我在回家路上）
-
-  > 注意这里home是副词，前面没有to
+  > 注意I am on the way home（我在回家路上）中home是副词，前面没有to
 
 - No Way！
 
